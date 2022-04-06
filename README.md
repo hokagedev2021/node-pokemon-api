@@ -1,2 +1,1 @@
-# node-pokemon-api
-Created with CodeSandbox
+express-api-rest
